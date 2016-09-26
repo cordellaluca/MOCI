@@ -1,10 +1,22 @@
 En tant qu'élève j'ai besoin de pouvoir remplir et sauvegarder la fiche de liaison.
-De plus je dois pouvoir imprimer la convention de stage.
-Enfin, il m'est nécéssaire de pouvoir mettre en ligne mon rapport de stage.
+De plus je dois pouvoir imprimer la convention de stage, à ce moment, je découvre sur l'application le nom ainsi que les coordonées de mon tuteur.
+A la fin de mon stage, il m'est nécéssaire de pouvoir mettre en ligne mon rapport de stage.
+Après avoir rendu mon rapport,l'applicaiton doit m'indiquer la date et la salle de ma soutenance ainsi que les professeurs qui y assisteront.
+Après ma soutenance, l'application doit me montrer ma note ainsi que mon appréciation. 
+
+À tout moment, je dois pouvoir consulter sur l'application les consignes et modalités de stage et du rapport de stage.
 
 
 En tant que professeur, je dois pouvoir consulter les conventions et fiches de liaison de chaque élève.
 
 
+En tant que membre de l'equipe de Secratariat des Stages, j'ai besoin de récupérer la fiche de liaison remplie par les élèves et de l'imprimer. 
+Je dois pouvoir directement envoyer un e-mail à l'élève s'il y a un problème dans son dossier. 
+Une fois que le responsable des stages a validé la fiche de liaison,je dois pouvoir éditer sa convention de 
+stage à partir des informations de la fiche de liaison et lui mettre à disposition. 
 
+Je dois pouvoir mettre à jour les modalités et consignes de stage et rapport de stage.
+
+En tant que maître de stage, je dois avoir accès au dossier de l'élève ou il y a son rapport. Je dois pouvoir également voir la date, l'adresse et l'heure de la soutenance.
+Enfin, je dois être capable d'inscrire la note à l'élève. 
 
