@@ -10,16 +10,15 @@ Après ma soutenance, l'application doit me montrer ma note ainsi que mon appré
 En tant que professeur, je dois pouvoir consulter les conventions et fiches de liaison de chaque élève.
 
 
+En tant que maître de stage, je dois avoir accès au dossier de l'élève ou il y a son rapport. Je dois pouvoir également voir la date, l'adresse et l'heure de la soutenance.
+Enfin, je dois être capable d'inscrire la note à l'élève. 
+
+
+
 En tant que membre de l'equipe de Secratariat des Stages, j'ai besoin de récupérer la fiche de liaison remplie par les élèves et de l'imprimer. 
 Je dois pouvoir directement envoyer un e-mail à l'élève s'il y a un problème dans son dossier. 
 Une fois que le responsable des stages a validé la fiche de liaison,je dois pouvoir éditer sa convention de 
 stage à partir des informations de la fiche de liaison et lui mettre à disposition. 
 
 Je dois pouvoir mettre à jour les modalités et consignes de stage et rapport de stage.
-
-En tant que maître de stage, je dois avoir accès au dossier de l'élève ou il y a son rapport. Je dois pouvoir également voir la date, l'adresse et l'heure de la soutenance.
-Enfin, je dois être capable d'inscrire la note à l'élève. 
-
-
-
-
+Je dois pouvoir archiver les rapports et les conventions de stage 1A 2A 3A d'une année sur l'autre.
