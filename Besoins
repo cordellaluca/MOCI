@@ -7,8 +7,10 @@ Après ma soutenance, l'application doit me montrer ma note ainsi que mon appré
 À tout moment, je dois pouvoir consulter sur l'application les consignes et modalités de stage et du rapport de stage.
 
 
-En tant que professeur, je dois pouvoir consulter les conventions et fiches de liaison de chaque élève.
-
+En tant que professeur, je dois pouvoir consulter les conventions et fiches de liaison de chaque élève. Le responsable des stages, 
+une fois la feuille de liaison remplie et la convention signée, attribue un tuteur à chaque élève. Le tuteur va donner une note 
+au rapport de stage de ses élèves. Une fois la soutenance effectuée le tuteur donne une note de soutenance. Le professeur qui fait 
+partie du jury attribue lui aussi une note et la moyenne des notes du professeur, du maître de stage et du tuteur donne la note finale de l'élève. 
 
 En tant que membre de l'equipe de Secratariat des Stages, j'ai besoin de récupérer la fiche de liaison remplie par les élèves et de l'imprimer. 
 Je dois pouvoir directement envoyer un e-mail à l'élève s'il y a un problème dans son dossier. 
